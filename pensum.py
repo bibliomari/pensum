@@ -31,4 +31,5 @@ for index in indexes:
 #             'query': 'alma.subjects=Monstre', 
 #             'maximumRecords': '20', 
 #     } 
+# https://sandbox02-eu.alma.exlibrisgroup.com/view/sru/47BIBSYS_UBO?version=1.2&operation=searchRetrieve&recordSchema=marcxml&query=classification_part=A.m
 
